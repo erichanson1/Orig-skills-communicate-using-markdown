@@ -12,3 +12,20 @@ This is normal text
 This is normal text
 
 ![This is a Support-O-Cat](https://octodex.github.com/images/supportcat.png)
+
+The number of times I've created this example git repository with a code example in it 
+
+``` c
+#include <stdio.h>
+
+int main (int argc, char** argv){
+    printf ("Hello World!\n");
+    return 0;
+}
+```
+
+```
+  git init
+  git add -A
+  git commit -m "Added hello world"
+```
