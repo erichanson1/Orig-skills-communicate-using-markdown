@@ -10,3 +10,5 @@ This is normal text
 This is normal text
 ###### H6 Header
 This is normal text
+
+![This is a Support-O-Cat](https://octodex.github.com/images/supportcat.png)
