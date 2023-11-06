@@ -29,3 +29,7 @@ int main (int argc, char** argv){
   git add -A
   git commit -m "Added hello world"
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
